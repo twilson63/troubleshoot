@@ -1,0 +1,13 @@
+{
+  "name": "troubleshoot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/troubleshoot.git",
+  "author": "Tom Wilson <twilson63@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hyper.io/connect": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
